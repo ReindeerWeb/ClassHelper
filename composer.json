@@ -1,0 +1,15 @@
+{
+    "name": "reindeerweb/classhelper",
+    "description": "Some class helper.",
+    "authors": [
+        {
+            "name": "ReindeerWeb, Marcel Rudolf, Germany",
+            "email": "hello@reindeer-web.de"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "ReindeerWeb\\ClassHelper\\": "src/"
+        }
+    }
+}
